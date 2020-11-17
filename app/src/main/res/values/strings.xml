@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">FirstApp</string>
     <string name="hello_android">0</string>
-    <string name="random_heading">Это случайное число от 0 до %id</string>
+    <string name="random_heading">Это случайное число от 0 до %1d</string>
 </resources>
